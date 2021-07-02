@@ -1,0 +1,77 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+h3{
+  font-style: italic;
+  color:blue;
+}
+
+.btn1{
+  background-color: red;
+  border-color: red;
+}
+
+button{
+  margin: 10px;
+  padding: 10px;
+  height: 50px;
+  color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button:hover{
+  background-color: black;
+  color: white;
+  border-color: transparent;
+}
+
+.btn2{
+  background-color: green;
+  border-color: green;
+}
+
+.btn3{
+  background-color: brown;
+  border-color: brown;
+  width: 130px;
+}
+
+.btn4{
+  background-color: yellow;
+  border-color: yellow;
+  color: black;
+  width: 130px;
+}
+
+.btn6{
+  background-color: orange;
+  border-color: orange;
+  color: black;
+  width: 130px;
+}
+
+.btn5{
+  background-color: lightblue;
+  border-color: lightblue;
+  color: black;
+  width: 130px;
+}
+
+.btn7{
+  background-color: pink;
+  border-color: pink;
+  color: black;
+  width: 130px;
+}
