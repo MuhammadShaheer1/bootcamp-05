@@ -8,6 +8,8 @@ const countReducer = (state, action) => {
         return 'Autumn'
     case 'SPRING':
         return 'Spring'
+    default:
+        throw new Error()
     }
   }
 
